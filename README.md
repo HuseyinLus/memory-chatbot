@@ -1,25 +1,31 @@
-# 🧠 Memory Chatbot
+# 🧠 **Memory Chatbot**
 
-A simple local chatbot using:
-
-- 🧠 [LangGraph](https://github.com/langchain-ai/langgraph) for agent & memory
-- 🤖 [Ollama](https://ollama.com) with the Mistral model
-- 🌐 [Streamlit](https://streamlit.io) for the web UI
+A **lightweight local AI chatbot** designed for fast experimentation and development.
 
 ---
 
-## 🚀 Features
+## **🔧 Built With**
 
-- Local LLM (no API needed)
-- Chat memory using `MemorySaver`
-- Lightweight and easy to run
+- **🧠 [LangGraph](https://github.com/langchain-ai/langgraph)** – Agent orchestration & memory management
+- **🤖 [Ollama](https://ollama.com)** – Local LLM using the **Mistral** model
+- **🌐 [Streamlit](https://streamlit.io)** – Interactive web-based UI
 
 ---
 
-## 📦 Requirements
+## **🚀 Features**
 
-- Python 3.10+
-- Ollama installed (`https://ollama.com`)
-- Mistral model pulled:
-  ```bash
-  ollama pull mistral
+- **Local LLM** – Run entirely on your machine, no API keys needed
+- **Persistent Chat Memory** – Using `MemorySaver` to retain conversation context
+- **Lightweight & Easy to Run** – Minimal setup for instant experimentation
+
+---
+
+## **📦 Requirements**
+
+- **Python 3.10+**
+- **Ollama** installed ([Download here](https://ollama.com))
+- **Mistral model** pulled locally:
+
+```bash
+ollama pull mistral
+```
