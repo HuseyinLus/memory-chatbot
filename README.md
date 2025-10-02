@@ -1,3 +1,4 @@
+<img width="1354" height="628" alt="memorychatbotSS2" src="https://github.com/user-attachments/assets/821723d6-c16e-4ada-8f99-7464e4b505ba" />
 # 🧠 **Memory Chatbot**
 
 A **lightweight local AI chatbot** designed for fast experimentation and development.
